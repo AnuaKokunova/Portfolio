@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Проект 3 </title>
+</head>
+
+<body>
+    <h2>Проект : Промежуточная аттестация</h2>
+<h2>Задание 1 : </h2>
+Ознакомьтесь с <i><a href="https://www.figma.com/file/blEJlNW8xG8GMaeg6hILSM/Ecommerce-Desktop-Template-(Copy)-(Copy)?type=design&node-id=1%3A66&t=8GpxuFV7879sGKgQ-1">макетом </a></i>лендинга, который принес наш дизайнер.
+Укажите неточности, которые есть в макете, заведите баг-репорты.
+<h2> Ответ : </h2>
+ <i><a href="https://docs.google.com/document/d/18kIVRgZWfP7nGOfvm7aJ_LOvQDoqf-tSt9L9jL8eJ5g/edit">Оценка макета лендинга </a></i>
+ <h2>Задание 2 : </h2>
+ <i><a href="https://shop.mts.ru/personal/basket"> Здесь корзина интернет-магазина «МТС»: </a></i> Вам необходимо составить чек-лист для тестирования функционала корзины.
+
+
+<h2> Ответ : </h2>
+<i><a href="https://docs.google.com/spreadsheets/d/1kuY33NpuBsHX-RnSUkDgD7umZAhg2vbAkWfe2Dyq-1c/edit">Чек-лист</a></i>
+<h2>Задание 3 : </h2>
+оставьте 3–5 тест-кейсов для проверок оформления заказа в корзине «МТС».
+
+<h2> Ответ : </h2>
+<i><a href= "https://drive.google.com/file/d/1j0daJoMep11H6z11yFTKngADQCfW3yKL/view">Тест-кейсы </a></i>
+<h2>Задание 4 : </h2>
+Работа с сайтом «МТС»:<i><a href="https://shop.mts.ru/personal/basket">https://shop.mts.ru/personal/basket</a></i>
+С помощью Postman запросов:
+<ol>
+<li>добавьте товар в корзину,</li>
+<li>удалите товар из корзины,</li>
+<li>измените заказ в корзине.</li>
+</ol>
+Задание считается выполненным, если вы предоставите 3 запроса с ответами в формате json коллекции
+
+<h2> Ответ : </h2>
+<i><a href="https://docs.google.com/document/d/1G8CzEg53cy7Ydpv83fcsas5lzeC9-tHFQbuTKz-SuOY/edit">Запросы в DevTools</a></i>
+<h2>Задание 5: </h2>
+Перейдите по ссылке: <i><a href="https://moskva.mts.ru/personal/razvlecheniya/opciya_s_podpiskoj_mult">https://moskva.mts.ru/personal/razvlecheniya/opciya_s_podpiskoj_mult</a></i>. На открывшейся странице найдите ссылку на картинку «Мульт» (основная картинка на странице). Полученная ссылка должна открываться в браузере как полноценное изображение.
+
+<h2> Ответ : </h2>
+<i><a href="https://static.mts.ru/dpc_upload/contents/383/mult2-picture-catalog.jpg">Ссылка на картинку </a></i>
+<h2>Задание 6 : </h2>
+Напишите запросы SQL.
+
+Даны 2 таблицы:
+
+Product (maker, model, type).
+PС (code, model, speed, ram, hd, price).
+<li>Таблица Product хранит производителя (maker), номер модели (model) и тип: PC — ПК, Laptop — портативный компьютер, Printer — принтер.</li>
+
+<li>Таблица PC содержит артикул (code), номер модели (model), скорость процессора (speed), оперативную память (ram), размер диска (hd), цену (price).</li>
+
+Нужно, используя язык SQL:
+<ol>
+<li>вывести производителя, номер модели и цену для типа ПК с оперативной памятью выше 16 ГБ производителя Lenovo и его дочерних компаний (в maker встречается Lenovo);</li>
+<li>вывести список производителей, у которых более 2 моделей продукта;</li>
+<li>вывести все уникальные наименования производителей.</li>
+</ol>
+
+<h2> Ответ : </h2>
+<i><a href="https://docs.google.com/document/d/1xNvA4mSr0vxZJeJhKzkhp1YH9NqAfEjjPaQiyET6cB0/edit">Запросы SQL </a></i>
+
+</body>
+</html>
+
