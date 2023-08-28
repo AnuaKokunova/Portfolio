@@ -1,14 +1,8 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title> Проект 3 </title>
-</head>
 
-<body>
+    <title> Проект 3 </title>
+
     <h2>Проект : Промежуточная аттестация</h2>
-<h2>Задание 1 : </h2>
+##Задание 1 : 
 Ознакомьтесь с <i><a href="https://www.figma.com/file/blEJlNW8xG8GMaeg6hILSM/Ecommerce-Desktop-Template-(Copy)-(Copy)?type=design&node-id=1%3A66&t=8GpxuFV7879sGKgQ-1">макетом </a></i>лендинга, который принес наш дизайнер.
 Укажите неточности, которые есть в макете, заведите баг-репорты.
 <h2> Ответ : </h2>
@@ -62,6 +56,5 @@ PС (code, model, speed, ram, hd, price).
 <h2> Ответ : </h2>
 <i><a href="https://docs.google.com/document/d/1xNvA4mSr0vxZJeJhKzkhp1YH9NqAfEjjPaQiyET6cB0/edit">Запросы SQL </a></i>
 
-</body>
-</html>
+
 
