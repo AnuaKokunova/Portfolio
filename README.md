@@ -45,7 +45,7 @@ hh§      # Портфолио: инженер по тестированию
 
 **Ссылка на проект** :
 <br>
-* [Проект 1]​(https://github.com/AnuaKokunova/Portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20 )
+* [Проект 1](https://github.com/AnuaKokunova/Portfolio/tree/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201%20)
 
 
 
